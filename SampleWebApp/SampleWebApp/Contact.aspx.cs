@@ -12,7 +12,6 @@ namespace SampleWebApp
         protected void Page_Load(object sender, EventArgs e)
         {
             int a = 0;
-            int b = 1;
         }
     }
 }
