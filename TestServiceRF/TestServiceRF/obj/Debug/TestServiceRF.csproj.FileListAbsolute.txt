@@ -1,0 +1,6 @@
+C:\Users\C274878\Source\Repos\ashwani2711\MyBucket\TestServiceRF\TestServiceRF\bin\Debug\TestServiceRF.exe.config
+C:\Users\C274878\Source\Repos\ashwani2711\MyBucket\TestServiceRF\TestServiceRF\bin\Debug\TestServiceRF.exe
+C:\Users\C274878\Source\Repos\ashwani2711\MyBucket\TestServiceRF\TestServiceRF\bin\Debug\TestServiceRF.pdb
+C:\Users\C274878\Source\Repos\ashwani2711\MyBucket\TestServiceRF\TestServiceRF\obj\Debug\TestServiceRF.csprojResolveAssemblyReference.cache
+C:\Users\C274878\Source\Repos\ashwani2711\MyBucket\TestServiceRF\TestServiceRF\obj\Debug\TestServiceRF.exe
+C:\Users\C274878\Source\Repos\ashwani2711\MyBucket\TestServiceRF\TestServiceRF\obj\Debug\TestServiceRF.pdb
